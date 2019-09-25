@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+*CNN_digit_rishi*
+*.vscode/
+*.wav
+free-spoken-digit-dataset-master/
